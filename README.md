@@ -3,13 +3,6 @@
 I'm MERN stack developer, highly motivated and focused.
 I have years of experience specializing in Full Stack Javascript Developer.
 
-<details>
-<summary>More about me</summary>
-
- https://stackoverflow.com/story/sevenninhlee
-
-</details>
-
 ---
 
 ## 💎 Skills
@@ -22,3 +15,7 @@ I have years of experience specializing in Full Stack Javascript Developer.
 [![ReactNative badge](https://img.shields.io/badge/-React_Native-563D7C?style=flat-square&logo=react&logoColor=white&link=https://reactnative.dev)](https://reactnative.dev)
 ![HTML5 badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3 badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+
+---
+
+<a href="https://www.linkedin.com/in/sevenninhlee/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
