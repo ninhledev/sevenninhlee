@@ -1,9 +1,10 @@
 Hi 👋 
 =====================
 
-My name is Ninh a full-stack Engineer with over six years of experience I have had the opportunity to work on large products such as Proptech, eCommerce, Education, Booking, and Mailbox.
+• My name is Ninh a full-stack Engineer with 6+ years of experience I have had the opportunity to work on large products such as Proptech, eCommerce, Education, Booking, and Mailbox.
 
-I am always working flexibly in creating a high-performance environment with the team. Coding clean and easily maintainable is my top priority. I like learning new technologies to optimize projects and share them with the team.
+• I'm always working flexibly to create a high-performance team environment. Coding clean and easily maintainable is my top priority. I like learning new technologies to optimize projects and share them with the team.
+
 
 * 🌍  I'm based in Da Nang, Vietnam
 * ✉️  You can contact me at [leephuocninh@gmail.com](mailto:leephuocninh@gmail.com)
