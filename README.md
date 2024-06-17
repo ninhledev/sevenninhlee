@@ -1,9 +1,9 @@
 Hi 👋 
 =====================
 
-* My name is Ninh a full-stack Engineer with 6+ years of experience I have had the opportunity to work on large products such as Proptech, eCommerce, Education, Booking, and Mailbox.
+• My name is Ninh a full-stack Engineer with 6+ years of experience I have had the opportunity to work on large products such as Proptech, eCommerce, Education, Booking, and Mailbox.
 
-* I'm always working flexibly to create a high-performance team environment. Coding clean and easily maintainable is my top priority. I like learning new technologies to optimize projects and share them with the team.
+• I'm always working flexibly to create a high-performance team environment. Coding clean and easily maintainable is my top priority. I like learning new technologies to optimize projects and share them with the team.
 
 
 * 🌍  I'm based in Da Nang, Vietnam
