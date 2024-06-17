@@ -1,7 +1,13 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hi! Welcome to my profile
+Hi 👋 
+=====================
 
-I'm MERN stack developer, highly motivated and focused.
-I have years of experience specializing in Full Stack Javascript Developer.
+My name is Ninh a full-stack Engineer with over six years of experience I have had the opportunity to work on large products such as Proptech, eCommerce, Education, Booking, and Mailbox.
+
+I am always working flexibly in creating a high-performance environment with the team. Coding clean and easily maintainable is my top priority. I like learning new technologies to optimize projects and share them with the team.
+
+* 🌍  I'm based in Da Nang, Vietnam
+* ✉️  You can contact me at [leephuocninh@gmail.com](mailto:leephuocninh@gmail.com)
+* 🤝  I'm open to collaborating on long-term projects
 
 ---
 
